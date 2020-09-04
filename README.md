@@ -9,9 +9,6 @@ This project involves creating active record data models for a mini reddit app.
 [![Twitter Follow](https://img.shields.io/badge/Twitter-Ezekiel-%231DA1F2)](https://twitter.com/MworekwaE)
 [![LinkedIn follow](https://img.shields.io/badge/LinkedIn-Ezekiel-%232867B2)](https://www.linkedin.com/in/vanheaven/)
 
-## Screenshot of sample verse&newsbot chats
-
-<img src="/img/screenshot.jpg">
 
 ## Content
 
