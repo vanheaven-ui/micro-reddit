@@ -81,6 +81,6 @@ And your reward awaits in heaven.
 Give a ⭐️ if you like this project!
 
 ## :clap: Acknowledgements
-[The Oding project Guide:](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails)<br />
+[The Odin project Guide:](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails)<br />
 [Microverse guide:](https://microverse.pathwright.com/library/fast-track-curriculum/69047/path/step/49722535)
 
