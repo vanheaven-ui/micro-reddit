@@ -1,4 +1,4 @@
-<div text-align="center">
+<div align="center">
 
 # Data Models for Micro Reddit Application
 
