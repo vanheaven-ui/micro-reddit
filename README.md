@@ -1,14 +1,15 @@
-# Data Models for Micro Reddit app
+<div text-align="center">
 
-This project involves creating active record data models for a mini reddit app.
+# Data Models for Micro Reddit Application
+
+This project involves creating ActiveRecord data models for a mini reddit application.
   
 [![View Code](https://img.shields.io/badge/View%20-Code-green)](https://github.com/vanheaven-ui/micro-reddit)
 [![Github Issues](https://img.shields.io/badge/GitHub-Issues-orange)](https://github.com/vanheaven-ui/micro-reddit/issues)
 [![GitHub Pull Requests](https://img.shields.io/badge/GitHub-Pull%20Requests-blue)](https://github.com/vanheaven-ui/micro-reddit/pulls)
 [![Author](https://img.shields.io/badge/Github-Author-black)](https://github.com/vanheaven-ui)
-[![Twitter Follow](https://img.shields.io/badge/Twitter-Ezekiel-%231DA1F2)](https://twitter.com/MworekwaE)
-[![LinkedIn follow](https://img.shields.io/badge/LinkedIn-Ezekiel-%232867B2)](https://www.linkedin.com/in/vanheaven/)
 
+</div>
 
 ## Content
 
